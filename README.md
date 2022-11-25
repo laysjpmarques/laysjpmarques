@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @laysjpmarques
 - 👀 I’m interested in epidemiological analysis
-- 🌱 I’m currently learning more about R programming, phyton and Power BI
-- 💞️ I’m looking to collaborate on researsh projects and health approaches
+- 🌱 I’m currently learning more about R programming, Phyton and Power BI
+- 💞️ I’m looking to collaborate on research projects and health approaches
 - 📫 How to reach me in lays.pmarques@hotmail.com
